@@ -1,3 +1,23 @@
+<!--Changes Made 
+    Changed div elements to semantic (header, nav, section, aside, footer).
+
+    combined content section elements to one class (services)
+    combined content aside elements to one class (benefit)
+    removed redundant CSS elements.
+
+    Changed footer header tag to be sequential (h2)
+
+    changed <title> to "Horiseon"
+
+    added alt attributes to img elements.
+
+    Created repository on GitHub with multiple commits and relevant messages.
+
+    Published Horiseon website post-refactor on my GitHub repository, with page URL:
+    https://jasongrossman.github.io/Weekly-Challenge1/
+     -->
+
+
 # 01 HTML CSS Git: Code Refactor
 
 One of the most common tasks for front-end and junior developers is to take existing code and refactor it to either meet a certain set of standards or implement a new technology. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities or socio-economic restrictions have access to their website, and helping them avoid litigation.
